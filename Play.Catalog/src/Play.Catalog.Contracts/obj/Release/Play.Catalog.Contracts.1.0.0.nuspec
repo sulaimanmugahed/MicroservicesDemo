@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Play.Catalog.Contracts</id>
+    <version>1.0.0</version>
+    <authors>Play.Catalog.Contracts</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\MicroservicesDemo\Play.Catalog\src\Play.Catalog.Contracts\bin\Release\net8.0\Play.Catalog.Contracts.dll" target="lib\net8.0\Play.Catalog.Contracts.dll" />
+  </files>
+</package>
